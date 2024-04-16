@@ -3,7 +3,7 @@ NAME : JAYAKRISHNAN L B L
 REG NO : 212222230052
 ```
 
-# EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
+# EXPERIMENT 03 - SIMULATION OF PUSHBUTTON AND LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
 ## Aim:
  To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
@@ -184,9 +184,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-![image](https://github.com/Jayakrishnan22003251/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120232371/532395ea-f98c-4e52-9390-a25e9ee39991)
+![WhatsApp Image 2024-04-16 at 16 18 05_f4c486c6](https://github.com/Jayakrishnan22003251/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120232371/7d35260b-a033-4bd3-bf19-6a833812c44f)
 
-![image](https://github.com/Jayakrishnan22003251/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120232371/7609b1c9-9522-4ffc-a78a-2561faf1b6ae)
+![WhatsApp Image 2024-04-16 at 16 18 21_bb443a02](https://github.com/Jayakrishnan22003251/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120232371/d0508a04-dda3-4cd8-b8cd-78af7dc8a792)
+
 
 
 
